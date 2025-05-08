@@ -1,3 +1,1 @@
-pass=key1 taku 4
-
 f7bestun
